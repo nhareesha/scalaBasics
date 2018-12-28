@@ -1,0 +1,9 @@
+*.class
+*.log
+*.idea
+
+##Ignore directories
+project/
+target/
+
+
